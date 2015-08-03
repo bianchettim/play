@@ -1,2 +1,4 @@
 # play
-Docker Play container
+DockerFile for Play container on CentOS 7
+
+Work in progress...
